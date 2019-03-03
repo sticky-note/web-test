@@ -18,7 +18,7 @@
     }
     /* free result set */
     $result->free();
-    printf( "</body>\n</html>" )
+    printf( "</body>\n</html>" );
   }
 
   /* close connection */
